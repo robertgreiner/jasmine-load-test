@@ -308,7 +308,7 @@ describe("toBeDefined() Matcher", function() {
         it("should be defined", function() {
             expect(utils).toBeDefined();
         });
-                it("should be defined", function() {
+        it("should be defined", function() {
             expect(utils).toBeDefined();
         });
         it("should be defined", function() {
@@ -608,7 +608,7 @@ describe("toBeDefined() Matcher", function() {
         it("should be defined", function() {
             expect(utils).toBeDefined();
         });
-                it("should be defined", function() {
+        it("should be defined", function() {
             expect(utils).toBeDefined();
         });
         it("should be defined", function() {
@@ -908,7 +908,7 @@ describe("toBeDefined() Matcher", function() {
         it("should be defined", function() {
             expect(utils).toBeDefined();
         });
-                it("should be defined", function() {
+        it("should be defined", function() {
             expect(utils).toBeDefined();
         });
         it("should be defined", function() {
@@ -1208,7 +1208,7 @@ describe("toBeDefined() Matcher", function() {
         it("should be defined", function() {
             expect(utils).toBeDefined();
         });
-                it("should be defined", function() {
+        it("should be defined", function() {
             expect(utils).toBeDefined();
         });
         it("should be defined", function() {
@@ -1508,7 +1508,7 @@ describe("toBeDefined() Matcher", function() {
         it("should be defined", function() {
             expect(utils).toBeDefined();
         });
-                it("should be defined", function() {
+        it("should be defined", function() {
             expect(utils).toBeDefined();
         });
         it("should be defined", function() {
@@ -1808,7 +1808,7 @@ describe("toBeDefined() Matcher", function() {
         it("should be defined", function() {
             expect(utils).toBeDefined();
         });
-                it("should be defined", function() {
+        it("should be defined", function() {
             expect(utils).toBeDefined();
         });
         it("should be defined", function() {
@@ -2108,7 +2108,7 @@ describe("toBeDefined() Matcher", function() {
         it("should be defined", function() {
             expect(utils).toBeDefined();
         });
-                it("should be defined", function() {
+        it("should be defined", function() {
             expect(utils).toBeDefined();
         });
         it("should be defined", function() {
@@ -2408,7 +2408,7 @@ describe("toBeDefined() Matcher", function() {
         it("should be defined", function() {
             expect(utils).toBeDefined();
         });
-                it("should be defined", function() {
+        it("should be defined", function() {
             expect(utils).toBeDefined();
         });
         it("should be defined", function() {
@@ -2708,7 +2708,7 @@ describe("toBeDefined() Matcher", function() {
         it("should be defined", function() {
             expect(utils).toBeDefined();
         });
-                it("should be defined", function() {
+        it("should be defined", function() {
             expect(utils).toBeDefined();
         });
         it("should be defined", function() {

@@ -1,7 +1,7 @@
 describe("ToEqual() Matcher", function() {
 
     var utils;
-    
+
     beforeEach(function() {
         utils = new Utils();
         utils.simulateAnAlgorithmicallyComplexFunction();
