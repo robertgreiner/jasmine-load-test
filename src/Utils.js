@@ -12,6 +12,10 @@ Utils.prototype.returnFalse = function() {
     return false;
 }
 
+Utils.prototype.getString = function() {
+    return 'Able was I ere I saw Elba';
+}
+
 Utils.prototype.simulateAnAlgorithmicallyComplexFunction = function() {
     var total = 0;
     for (var i = 0; i < 100; i++) {
