@@ -12,6 +12,10 @@ Utils.prototype.returnFalse = function() {
     return false;
 }
 
+Utils.prototype.returnZero = function() {
+    return 0;
+}
+
 Utils.prototype.getString = function() {
     return 'Able was I ere I saw Elba';
 }
