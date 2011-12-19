@@ -1,16 +1,18 @@
-function getInt() {
-	return 5;
+var Utils = function() {}
+
+Utils.prototype.getInt = function() {
+    return 5;
 }
 
-function returnTrue() {
+Utils.prototype.returnTrue = function() {
     return true;
 }
 
-function returnFalse() {
+Utils.prototype.returnFalse = function() {
     return false;
 }
 
-function simulateAnAlgorithmicallyComplexFunction() {
+Utils.prototype.simulateAnAlgorithmicallyComplexFunction = function() {
     var total = 0;
     for (var i = 0; i < 100; i++) {
         for (var j = 0; j < 100; j++) {
