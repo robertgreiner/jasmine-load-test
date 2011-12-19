@@ -1,3 +1,0 @@
-describe("toBeGreaterThan() Matcher", function() {
-
-});

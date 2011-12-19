@@ -1,3 +1,0 @@
-describe("toBeLessThan() Matcher", function() {
-
-});

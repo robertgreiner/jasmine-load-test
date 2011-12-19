@@ -1,3 +1,0 @@
-describe("toBeTruthy() Matcher", function() {
-
-});

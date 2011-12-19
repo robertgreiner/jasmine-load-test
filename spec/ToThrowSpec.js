@@ -1,3 +1,0 @@
-describe("toThrow() Matcher", function() {
-
-});

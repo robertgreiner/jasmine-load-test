@@ -1,3 +1,0 @@
-describe("toBe() Matcher", function() {
-
-});
